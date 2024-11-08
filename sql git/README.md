@@ -92,7 +92,7 @@ RENAME COLUMN address TO home_address;`
   
   *Output:*
   
-  <img src="alter table query.png">
+  <img src="">
 
 ---
 
