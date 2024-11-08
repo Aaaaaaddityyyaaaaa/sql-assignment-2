@@ -34,7 +34,7 @@
   
   *Output:*
   
-  <img src="drop table.png">
+  <img src="sql git/drop table.png">
 
 ---
   
@@ -59,7 +59,7 @@ VALUES
   
   *Output:*
   
-  <img src="insert into table.png">
+  <img src="sql git/insert into table.png">
 
 ---
 
@@ -69,7 +69,7 @@ VALUES
   
   *Output:*
   
-  <img src="select query.png">
+  <img src="sql git/select query.png">
 
 ---
 
@@ -81,7 +81,7 @@ WHERE patient_id = '3';`
   
   *Output:*
   
-  <img src="update and where query.png">
+  <img src="sql git/update and where query.png">
 
 ---
 
@@ -103,7 +103,7 @@ ORDER BY discharge_date DESC;`
   
   *Output:*
   
-  <img src="order by query.png">
+  <img src="sql git/order by query.png">
 
 ---
 
@@ -115,7 +115,7 @@ INNER JOIN Appointment ON Patient.patient_id = Appointment.patient_id;`
   
   *Output:*
   
-  <img src="inner join.png">
+  <img src="sql git/inner join.png">
 ---
 
 - **Left Join Query**
@@ -126,7 +126,7 @@ LEFT JOIN Appointment ON Patient.patient_id = Appointment.patient_id;`
   
   *Output:*
   
-  <img src="left join.png">
+  <img src="sql git/left join.png">
 
 ---
 
@@ -138,7 +138,7 @@ RIGHT JOIN Appointment ON Patient.patient_id = Appointment.patient_id;`
 
   *Output:*
   
-  <img src="right join.png">
+  <img src="sql git/right join.png">
 
 ---
 
@@ -155,7 +155,7 @@ RIGHT JOIN Appointment ON Patient.patient_id = Appointment.patient_id;`
   
   *Output:*
   
-  <img src="outer join.png">
+  <img src="sql git/outer join.png">
   **Distinct Query**
 
  ` SELECT DISTINCT subject_`
@@ -165,4 +165,4 @@ RIGHT JOIN Appointment ON Patient.patient_id = Appointment.patient_id;`
 
   *Output:*
   
-  <img src="distinct.png">
+  <img src="sql git/distinct.png">
