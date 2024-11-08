@@ -24,7 +24,7 @@
   
   *Output:*
 
-  <img src="create and use database and tables - Copy.png.png">
+  <img src="create and use database and tables - Copy.png">
 
 ---
 
