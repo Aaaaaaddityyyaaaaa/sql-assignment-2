@@ -24,7 +24,7 @@
   
   *Output:*
 
-  <img src="sql git/create and use database and tables.png">
+  <img src="sql git/create and use database and tables - Copy.png">
 
 ---
 
